@@ -1,5 +1,5 @@
 
-#NOOAFORECAST 
+## NOOAFORECAST 
 
 Once Clone/Download the project
 
@@ -18,6 +18,14 @@ Enter user input (lat, long) when it propmts (Enter latitude , longitude pair : 
 
 ## Run from IDE
 run com.noaa.weather.Application as a java application 
+
+Enter user input (lat, long) when it propmts (Enter latitude , longitude pair : )
+
+## Run from existing jar in docs module (quick run)
+
+cd docs
+
+java -jar nooa-forecast-1.0.0-jar-with-dependencies.jar 
 
 Enter user input (lat, long) when it propmts (Enter latitude , longitude pair : )
 
